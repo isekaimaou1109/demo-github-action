@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T13:55:42.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DbNagJrstnUY0w7tXoQs" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T14:45:56.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TyiOlWGIXdMdA3LCGy5M" version="24.2.0" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="460" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMB6OrflOX-OGsn26XtV-17" value="Socket Server" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="VMB6OrflOX-OGsn26XtV-17" value="LavinMQ" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="430" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LbKl2bfUw2Kv5uxfCh80-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbKl2bfUw2Kv5uxfCh80-2" target="VMB6OrflOX-OGsn26XtV-17">
